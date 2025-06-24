@@ -6,20 +6,20 @@ Asena (**A Sufficiently Entertaining Nonchalant Assistant**) is a highly intelli
 
 ### 🎙️ **Voice Interaction**
 - Recognizes and responds to natural language commands
-- Supports multiple languages and accents
+- Supports multiple languages and accents (in progress)
 - Customizable wake word and response style
 
-### 🧠 **AI & Smart Learning**
-- Learns from user interactions to improve over time
+### 🧠 **AI & Smart Learning** (in progress)
+- Learns from user interactions to improve over time 
 - Analyzes past conversations for personalized responses
 - Stores preferences securely to enhance user experience
 
-### 🛠 **Multitasking & Automation**
+### 🛠 **Multitasking & Automation** (in progress)
 - Manages schedules, reminders, and to-do lists
 - Controls smart home devices via API integrations
 - Automates repetitive tasks like email sorting and calendar updates
 
-### 🔍 **Advanced Search & Knowledge Base**
+### 🔍 **Advanced Search & Knowledge Base** (in progress)
 - Retrieves real-time information from Wikipedia, Wolfram Alpha, and Google Search
 - Provides up-to-date news, weather, stock prices, and more
 
@@ -28,12 +28,12 @@ Asena (**A Sufficiently Entertaining Nonchalant Assistant**) is a highly intelli
 - Customizable personality settings (Professional, Friendly, Witty, etc.)
 - Tells jokes, fun facts, and motivational quotes
 
-### 🔐 **Privacy & Security**
+### 🔐 **Privacy & Security** (in progress)
 - Implements encryption for secure user data storage
 - Provides voice-based authentication for secure access
 - Offline mode for privacy-focused interactions
 
-### 🔗 **Cross-Platform Support & API Integrations**
+### 🔗 **Cross-Platform Support & API Integrations** (in progress)
 - Available on Windows, macOS, Linux, Android, and iOS
 - Integrates with Spotify, Gmail, Google Calendar, and other third-party services
 - Can be connected to home automation systems (Alexa, Google Home, etc.)
