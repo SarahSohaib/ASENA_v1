@@ -1,0 +1,64 @@
+{
+  "history": [
+    {
+      "user": "Hey Asena",
+      "bot": "Hi Sarah"
+    },
+    {
+      "user": "Hey Asena",
+      "bot": "Hi Sarah"
+    },
+    {
+      "user": "How are you?",
+      "bot": "I am well , how are you?"
+    },
+    {
+      "user": "Hi how are you",
+      "bot": "I am well, how are you?"
+    },
+    {
+      "user": "tell me your name",
+      "bot": "My name is Asena, I am your virtual Assitant "
+    },
+    {
+      "user": "tell me your name",
+      "bot": "My name is Asena, I am your virtual Assitant "
+    },
+    {
+      "user": "Hello",
+      "bot": "Hello, nice to meet you!"
+    },
+    {
+      "user": "What is your name?",
+      "bot": "My name is Asena."
+    },
+    {
+      "user": "What is your purpose?",
+      "bot": "My name is Asena."
+    },
+    {
+      "user": "Tell me a joke",
+      "bot": "Sure! Why don't skeletons fight each other? They don't have the guts!"
+    },
+    {
+      "user": "tell me a joke",
+      "bot": "Sure! Why don't skeletons fight each other? They don't have the guts!"
+    },
+    {
+      "user": "Do you know the name of my brother?",
+      "bot": "No, because you haven't told me yet. I don't know everything... yet!"
+    },
+    {
+      "user": "What is life?",
+      "bot": "That's a profound question! Many believe it's to find happiness and purpose."
+    },
+    {
+      "user": "Hello",
+      "bot": "Hey! How's it going?"
+    },
+    {
+      "user": "What do you know?",
+      "bot": "No, because you haven't told me yet. I don't know everything... yet!"
+    }
+  ]
+}
